@@ -1,5 +1,6 @@
 .beren {
 	width: 90%;
+	margin: 30px;
 }
 h1 {
 	font-size: 60px;
@@ -8,11 +9,44 @@ h1 {
 	text-align: center;
 }
 p {
-	font-size: 50px;
+	font-size: 30px;
+	text-align: center;
 }
 .tılsım {
-	background-color: yellow;
+ 	background-color: #FFF6B3;
 }
 body {
-	background-color: navy;
+	background-color: #6A80B9;
+}
+h2 {
+	font-size: 60px;
+	text-align: center;
+}
+.ates {
+	width: 90%;
+	margin:30px;
+}
+.class1 {
+	background-color: #FFF6B3;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+.class2 {
+	width: 90%;
+	height: 90%;
+}
+.class3 {
+	width: 90%;
+	height: 90%;
+}
+.class4 {
+	width: 90%;
+	height: 90%
+}
+.class5 {
+	background-color: #FFF6B3; 
+}
+.class12 {
+	margin-top: 30px;
+	margin-bottom: -20px
 }
